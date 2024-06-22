@@ -1,0 +1,48 @@
+grid:
+  - "3":
+      h: 1
+      w: 2
+      x: 0
+      y: 0
+      fixed: false
+      fullHeight: false
+    "12":
+      h: 6
+      w: 9
+      x: 0
+      y: 0
+      fixed: false
+      fullHeight: false
+    id: a
+    data:
+      id: a
+      type: textinputcomponent
+      actions: []
+      customCss:
+        input:
+          class: ""
+          style: ""
+      configuration:
+        disabled:
+          type: static
+          value: false
+        afterIcon:
+          type: static
+          value: ""
+        beforeIcon:
+          type: static
+          value: ""
+        placeholder:
+          type: static
+          value: Type...
+        defaultValue:
+          type: static
+      verticalAlignment: center
+theme:
+  path: f/app_themes/theme_0
+  type: path
+subgrids: {}
+fullscreen: false
+norefreshbar: false
+hiddenInlineScripts: []
+unusedInlineScripts: []
